@@ -1,0 +1,5 @@
+bank_system
+src/*.o
+data/*.db
+.git
+.DS_Store

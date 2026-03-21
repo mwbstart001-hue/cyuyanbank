@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  bank_app:
+    build: .
+    container_name: bank_management_system
+    stdin_open: true # 允许交互
+    tty: true # 允许交互
+    volumes:
+      - ./data:/app/data
