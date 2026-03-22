@@ -1,0 +1,6 @@
+R001|creditScore|750|850|30|Excellent credit score|1
+R002|creditScore|650|749|20|Good credit score|1
+R003|debtRatio|0|0.2|25|Low debt ratio|1
+R004|debtRatio|0.21|0.4|15|Moderate debt ratio|1
+R005|monthlyIncome|50000|1e+06|25|High income|1
+R006|monthlyIncome|20000|49999|15|Medium income|1
