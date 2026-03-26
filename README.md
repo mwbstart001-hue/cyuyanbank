@@ -1,4 +1,4 @@
-# 银行管理系统 (Bank Management System) - C++ & SQLite
+# 银行管理系统 (Bank Management System) - shell & SQLite
 
 这是一个基于 Shell 脚本原生开发 的银行综合管理系统，无任何第三方框架与外部依赖，通过循环队列、并查集、哈夫曼树、决策树四大算法结构，实现排队叫号、账户关系管理、交易流水处理、风险评估全业务流程，轻量化、跨平台、可直接在 Linux/macOS 原生环境运行，支持 Docker 容器化一键部署。
 ---
